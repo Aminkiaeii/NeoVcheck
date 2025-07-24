@@ -1,1 +1,1 @@
-2.0|bugfix
+2.0|feature
