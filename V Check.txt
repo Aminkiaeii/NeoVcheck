@@ -1,2 +1,1 @@
-version=2.1
-type=both
+2.0|both
